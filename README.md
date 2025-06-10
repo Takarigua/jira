@@ -62,8 +62,8 @@
 
 ---
 
-4.[Тесты Workflow](https://github.com/Takarigua/jira/blob/56043223e82d41e70e3fc75558fdd98ca8927f93/screen/%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20Workflow.png)
+4.![Тесты Workflow](https://github.com/Takarigua/jira/blob/56043223e82d41e70e3fc75558fdd98ca8927f93/screen/%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20Workflow.png)
 
 ---
 
-5.[Scrum](https://github.com/Takarigua/jira/blob/56043223e82d41e70e3fc75558fdd98ca8927f93/screen/Scrum.png)
+5.![Scrum](https://github.com/Takarigua/jira/blob/56043223e82d41e70e3fc75558fdd98ca8927f93/screen/Scrum.png)
